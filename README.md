@@ -456,5 +456,3 @@ Class to build instances of {@link HttpClientConfiguration}.
 | `httpMethodsToRetry()` | Http methods to retry against. | `Set<HttpMethod>` |
 | `maxBackOff()` | The maximum wait time for overall retrying requests. | `long` |
 | `shouldRetryOnTimeout()` | Whether to retry on request timeout. | `boolean` |
-
-#### Test line
